@@ -1,5 +1,5 @@
 # Load-Forecasting-with-Prophet
-load forecasting of a micro-grid using Prophet API
+Microgrid load forecasting using Facebook's Prophet API
 Example
 ![](/ProphetTwoWeeks.png)
 
